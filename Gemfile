@@ -16,7 +16,9 @@ gem 'rails', '3.2.15'
 # gem 'jbuilder'
 
 # Use unicorn as the app server
-# gem 'unicorn'
+gem 'unicorn'
+
+gem 'therubyracer'
 
 # Deploy with Capistrano
 # gem 'capistrano'
